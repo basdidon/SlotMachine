@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b22d6a444bfa4b4e9a0221c9604734f, type: 3}
+  m_Name: Globe
+  m_EditorClassIdentifier: 
+  <Sprite>k__BackingField: {fileID: 1250192466, guid: b34cd2d7865b86649ad8b4747044c1a4, type: 3}
